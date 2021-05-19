@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_in_the_air_facing_left_wall()</string>
+			<key>ModifiedRange</key>
+			<string>{2877, 35}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2877, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Start_bending_back()</string>
+			<key>ModifiedRange</key>
+			<string>{2978, 20}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2943, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Back_bent_and_first_foot_off_the_ground()</string>
+			<key>ModifiedRange</key>
+			<string>{3063, 41}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3008, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_one_foot_in_the_air_and_the_other_starting_to_push_the_ground()</string>
+			<key>ModifiedRange</key>
+			<string>{3170, 83}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3074, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_and_both_feet_in_the_air()</string>
+			<key>ModifiedRange</key>
+			<string>{3318, 46}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3139, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_one_foot_on_the_ground_and_the_other_one_following()</string>
+			<key>ModifiedRange</key>
+			<string>{3429, 72}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3204, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_in_the_air_facing_left_wall()</string>
+			<key>ModifiedRange</key>
+			<string>{3568, 35}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3271, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/30E346D2-F8E8-45DD-88D8-FB890429BA70.playgroundpage/main.swift</string>
+</dict>
+</plist>

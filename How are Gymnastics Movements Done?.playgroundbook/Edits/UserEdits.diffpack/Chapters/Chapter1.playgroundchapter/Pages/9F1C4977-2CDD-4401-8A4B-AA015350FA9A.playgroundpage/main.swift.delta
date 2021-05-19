@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_in_the_air_facing_right_wall()</string>
+			<key>ModifiedRange</key>
+			<string>{2700, 36}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2700, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_and_one_foot_in_the_air()</string>
+			<key>ModifiedRange</key>
+			<string>{2802, 45}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2766, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_and_legs_partially_open_in_the_air()</string>
+			<key>ModifiedRange</key>
+			<string>{2912, 56}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2831, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_and_legs_closed_in_the_air()</string>
+			<key>ModifiedRange</key>
+			<string>{3034, 48}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2897, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>No_limbs_on_the_ground_and_legs_closed()</string>
+			<key>ModifiedRange</key>
+			<string>{3147, 40}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2962, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_in_the_air_facing_left_wall()</string>
+			<key>ModifiedRange</key>
+			<string>{3252, 35}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3027, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/9F1C4977-2CDD-4401-8A4B-AA015350FA9A.playgroundpage/main.swift</string>
+</dict>
+</plist>

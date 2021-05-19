@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>1</string>
+			<key>ModifiedRange</key>
+			<string>{2176, 1}</string>
+			<key>OriginalContent</key>
+			<string>0.4</string>
+			<key>OriginalRange</key>
+			<string>{2176, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_in_the_air_facing_right_wall()</string>
+			<key>ModifiedRange</key>
+			<string>{2765, 36}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2767, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_meeting_the_ground_and_one_foot_in_the_air()</string>
+			<key>ModifiedRange</key>
+			<string>{2867, 50}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2833, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_and_both_feet_in_the_air()</string>
+			<key>ModifiedRange</key>
+			<string>{2982, 46}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2898, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_on_the_ground_one_foot_on_the_ground_and_the_other_one_following()</string>
+			<key>ModifiedRange</key>
+			<string>{3094, 72}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2964, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Hands_in_the_air_facing_left_wall()</string>
+			<key>ModifiedRange</key>
+			<string>{3231, 35}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3029, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+</dict>
+</plist>
